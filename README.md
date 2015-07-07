@@ -1,11 +1,11 @@
-# taylor-swift
+# taylor.swift
 Prints Taylor Swift's face to console
 
-#Requirements
+## Requirements
 Requires Apple Swift (https://www.apple.com/swift/)
 
-#Usage
+## Usage
 $ /path/to/swift taylor.swift
 
-#Why?
+## Why?
 Because.
